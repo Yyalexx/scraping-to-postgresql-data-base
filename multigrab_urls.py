@@ -6,7 +6,7 @@ import requests # Импортируем библиотеку requests для з
 from bs4 import BeautifulSoup # Импортируем библиотеку BeautifulSoup для парсинга
 
 # Общая часть адреса каталога рецептов
-path = 'https://eda.ru/recepty?page='
+path = 'https://***?page='
 # Юзер-агент
 ua = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36'
 
